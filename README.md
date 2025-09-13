@@ -11,9 +11,8 @@ This Power BI dashboard provides an interactive analysis of the Google Play Stor
 ## Data Cleaning (From EDA Project)  
 - Removed null ratings and inconsistent installs data.  
 - Standardized install counts to numerical format.  
-- Converted 'is_paid' into binary format.  
+- Created 'is_paid' column.  
 - De-duplicated by app name.  
-- Cleaned category labels for consistency.
 
 ## Key Features  
 - KPI cards: Average Rating, Total Apps, Total Installs  
@@ -31,9 +30,7 @@ This Power BI dashboard provides an interactive analysis of the Google Play Stor
 ## How to Use  
 1. Open the `.pbix` file in Power BI Desktop  
 2. Use slicers (Category, Paid/Free) to filter data interactively  
-3. Hover for tooltips  
+3. Hover for tooltips
+4. I've also added a screen shot of my dashboard for easy reference
 
-## Future Work  
-- Drill-down pages for app-level details  
-- Time series analysis with date data  
-- Predictive models (ratings/install forecasting)
+
