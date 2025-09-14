@@ -22,10 +22,11 @@ This Power BI dashboard provides an interactive analysis of the Google Play Stor
 - Interactive Slicers for dynamic filtering
 
 ## Key Insights  
-- FAMILY apps dominate the store → Strategic focus area  
-- Only ~7% apps are Paid → Free model dominates  
-- High reviews don’t always mean high ratings → Quality issues to investigate  
-- EDUCATION & ART_AND_DESIGN apps have the highest average ratings
+- The Family, Game, and Tools categories dominate in terms of the number of apps, with Family having the highest share.(insight from pie chart)  
+- Only ~7% apps are Paid → Free model dominates (insight from donut chart) 
+- High reviews don’t always mean high ratings → Quality issues to investigate (insight from sactter plot) 
+- EDUCATION & ART_AND_DESIGN apps have the highest average ratings (insight from line chart)
+- The average app rating is 4.19, with a total of 10.83K apps and 168 billion installs across the dataset (innsight from KPI cards)
 
 ## How to Use  
 1. Open the `.pbix` file in Power BI Desktop  
